@@ -1,0 +1,142 @@
+body{
+    background-color: #FFFFFF;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 4px;
+}
+
+#mainHeading{
+   color: #000000; 
+}
+
+.highlight{
+    color: #AEF359;
+}
+
+#introText{
+ margin-left: 50px;
+ width: 751px;
+ float: left;
+}
+
+#profilePicture{
+    float: left;
+}
+
+.reset{
+    clear: both;
+}
+
+#hobbies_header{
+    margin-left: 48px;
+    margin-top: -40px;
+}
+
+#hobbies{
+    margin-left: 20px;
+    margin-top: -20px;
+    margin-bottom: 40px;
+}
+
+#hobbiesText{
+    width: 397px;
+    height: 546px;
+    background-color: #b3afaf;
+    float: left;
+    margin-right: 80px;
+}
+
+#heroShot{
+    float: left;
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: #b3afaf;
+}
+
+#social{
+    width: 148px;
+    height: 510px;
+    background-color:#FFFFFF;
+    float: left;
+    margin-top: 18px;
+    margin-left: 18px;
+}
+
+#grayBoxSocial{
+    width: 180px;
+    height: 546px;
+    background-color: #b3afaf;
+    float:left;
+    margin-right: 80px;
+}
+
+#meme{
+    float: left;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+
+#boxMeme{
+    width: 536px;
+    height: 536px;
+    background-color: #FFFFFF;
+    float: left;
+}
+
+#pageContainer{
+    width: 1300px;
+    margin: 0px auto 0px auto;
+}
+
+/*Meme_Circle*/
+.outerCircle {
+    height: 536px;
+    width: 536px;
+    background-color: #cf8383;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.innerCircle {
+    height: 450px;
+    width: 450px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 45px;
+    margin-bottom: 50px;
+    margin-left: 45px;
+    margin-right: 50px;
+}
+
+/*Socials_Buttons*/
+#spotify{
+ margin-left: 15px;
+ margin-top: 20px;
+}
+
+#instagram{
+ margin-left: 15px;
+ margin-top: 25px;
+}
+
+#youtube{
+ margin-left: 15px;
+ margin-top: 30px;
+}
+
+#line{
+    float: left;
+    height: 950px;
+    width: 10px;
+    background-color: #000000;
+    margin: 0px;
+}
+
+#box_all_but_line{
+    float: left;
+    width: 1290px;
+    margin: 0px auto 0px auto;
+}
+  
