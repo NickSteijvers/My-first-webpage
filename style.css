@@ -128,7 +128,7 @@ body{
 
 #line{
     float: left;
-    height: 900px;
+    height: 1000px;
     width: 10px;
     background-color: #000000;
     margin: 0px;
@@ -140,3 +140,17 @@ body{
     margin: 0px auto 0px auto;
 }
   
+#next_Page{
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 123px;
+    height: 41px;
+    background-color: #555555;
+}
+
+#text_Next_page{
+    float: left;
+    margin: 6px;
+    color: #FFFFFF;
+}
